@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "extends eslint-config-react-app",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IronKinoko/common"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
