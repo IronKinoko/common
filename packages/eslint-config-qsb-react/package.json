@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qsb-react",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "extends eslint-config-react-app",
   "main": "index.js",
   "repository": {
