@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qsb-react",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "extends eslint-config-react-app",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,11 @@
     "index.js"
   ],
   "dependencies": {
+    "@babel/core": "7.x",
+    "@babel/plugin-syntax-flow": "7.x",
+    "@babel/plugin-transform-react-jsx": "^7.x",
     "eslint": "^8.19.0",
-    "eslint-config-react-app": "^7.0.1"
+    "eslint-config-react-app": "^7.0.1",
+    "typescript": ">=4"
   }
 }
